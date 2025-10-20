@@ -1,0 +1,15 @@
+.header{
+    background-color: darkseagreen;
+    padding: 20px;
+}
+.main{
+    background-color: lavender;
+    padding: 20px;
+}
+body{
+    margin: 0;
+}
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+}

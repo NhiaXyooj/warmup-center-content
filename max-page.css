@@ -1,0 +1,15 @@
+.site-header{
+    background-color: darkgrey;
+    padding: 40px;
+}
+.main{
+    background-color: darkcyan;
+    padding: 40px;
+}
+body{
+    margin: 0;
+}
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+}
